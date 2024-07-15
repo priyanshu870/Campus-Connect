@@ -70,4 +70,4 @@ We welcome contributions from the community! To contribute:
 
 ## Support
 
-If you encounter any issues or have questions, please get in touch with `divyanshu.20224@gmail.com`
+If you encounter any issues or have questions, please get in touch with `priyanshusrivastav2002@gmail.com`
